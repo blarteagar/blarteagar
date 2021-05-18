@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning AlpineJS, VueJS, TailwindCSS, GO
+- 🌱 I’m currently learning VueJS
 <!--
 **blarteagar/blarteagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
